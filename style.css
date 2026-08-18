@@ -356,3 +356,58 @@ section p {
     border-radius: 12px;
     margin-bottom: 15px;
 }
+/* Home Section */
+.home {
+    min-height: 85vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 70px;
+    padding: 80px 8%;
+}
+
+.home-image {
+    flex: 1;
+    text-align: center;
+}
+
+.home-image img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 6px solid #ffffff;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+}
+
+.home-text {
+    flex: 1;
+}
+
+.hello {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.home-text h1 {
+    font-size: 52px;
+    margin: 5px 0;
+}
+
+.home-text h2 {
+    font-size: 25px;
+    margin: 15px 0;
+}
+
+.home-text p {
+    font-size: 17px;
+    line-height: 1.7;
+}
+
+.home-text .btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 25px;
+    text-decoration: none;
+    border-radius: 8px;
+}
