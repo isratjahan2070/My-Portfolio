@@ -513,6 +513,119 @@ section h2 {
 .about-box {
     background: #f1dfcd;
 }
+/* Final Coffee Brown Theme */
+
+body {
+    background-color: #fffaf5;
+    color: #3b2a20;
+}
+
+nav {
+    background-color: #3b2a20;
+}
+
+.logo {
+    color: #f5e6d3 !important;
+}
+
+nav ul li a {
+    color: #ffffff;
+}
+
+nav ul li a:hover {
+    color: #d8b08c;
+}
+
+/* Home */
+.home {
+    background-color: #fffaf5;
+}
+
+.hello {
+    color: #a66b3f !important;
+}
+
+.home h1,
+.home-text h1 {
+    color: #3b2a20;
+}
+
+.home h2,
+.home-text h2 {
+    color: #7a5235 !important;
+}
+
+.home-image img {
+    border-color: #7a5235 !important;
+}
+
+.home-text p {
+    color: #5c4a3d;
+}
+
+/* Buttons */
+.btn,
+.project a {
+    background-color: #7a5235 !important;
+    color: #ffffff;
+}
+
+.btn:hover,
+.project a:hover {
+    background-color: #3b2a20 !important;
+}
+
+/* Sections */
+section h2,
+.about-text h2,
+#skills h2,
+#projects h2 {
+    color: #3b2a20 !important;
+}
+
+/* About */
+.about {
+    background-color: #fffaf5;
+}
+
+.about-box {
+    background-color: #f1dfcd;
+}
+
+.about-box h3 {
+    color: #7a5235;
+}
+
+/* Skills */
+#skills {
+    background-color: #f8eee4;
+}
+
+.skill {
+    background-color: #ffffff;
+    color: #5a3925;
+}
+
+/* Projects */
+#projects {
+    background-color: #fffaf5;
+}
+
+.project {
+    background-color: #ffffff;
+    border-color: #ead8c5;
+}
+
+.project h3 {
+    color: #5a3925 !important;
+}
+
+/* Contact */
+#contact {
+    background-color: #3b2a20;
+    color: #ffffff;
+}
+
 
 #contact {
     background: #3b2a20;
