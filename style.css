@@ -13,7 +13,37 @@ body {
     background-color: #f7f7f9;
     color: #17233c;
 }
+/* Home Section Colors */
+.home {
+    background: #f8f6f2;
+}
 
+.home-text h1 {
+    color: #2b2118;
+}
+
+.home-text h2 {
+    color: #7a5c3e;
+}
+
+.hello {
+    color: #a07850;
+}
+
+.home-text p {
+    color: #555;
+}
+
+.home-text .btn {
+    background: #7a5c3e;
+    color: white;
+    transition: 0.3s;
+}
+
+.home-text .btn:hover {
+    background: #5f452f;
+    transform: translateY(-2px);
+}
 
 /* Navigation Bar */
 
