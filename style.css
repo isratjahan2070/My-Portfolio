@@ -348,4 +348,11 @@ section p {
 
 .project a:hover {
     background: #b52b6f;
+}.project img {
+    width: 100%;
+    max-width: 350px;
+    height: 220px;
+    object-fit: cover;
+    border-radius: 12px;
+    margin-bottom: 15px;
 }
